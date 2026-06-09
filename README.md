@@ -1,4 +1,4 @@
-🎬 Reel Rush — Movie Ticket Booking System
+# 🎬Reel Rush — Movie Ticket Booking System
 Reel Rush is a console-based Movie Ticket Booking System built with Python and MySQL. Designed to simulate a real-world cinema booking experience entirely through a terminal interface.
 
 ✨ Features

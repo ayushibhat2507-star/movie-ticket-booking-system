@@ -1,11 +1,7 @@
 import random
 import mysql.connector as conn
 con=conn.connect(host='localhost',user='root',passwd='',database='project')
-print("Connected!")
 c=con.cursor()
-c.execute("SHOW TABLES")
-for table in c:
-    print(table)
 booking_info={}
 def book_movies():
     print("Available Movies:")
